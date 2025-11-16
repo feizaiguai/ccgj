@@ -7,7 +7,7 @@
 - **名称**: Orchestrator
 - **编号**: 0/9
 - **角色**: Chief Architect & Task Coordinator
-- **权重**: Claude 70%, Gemini 20%, Others 10%
+- **权重**: Claude 65%, Gemini 35%
 
 ## 核心职责
 
@@ -40,9 +40,9 @@ Orchestrator分解:
 ### 3. 多AI协同决策
 
 **Council of Models机制**：
-- Claude: 执行和最终决策（70%权重）
-- Gemini: 战略验证和建议（20%权重）
-- 其他: 辅助验证（10%权重）
+- Claude: 执行和最终决策（65%权重）
+- Gemini: 战略验证和建议（35%权重）
+- 
 
 ### 4. 自愈机制
 
